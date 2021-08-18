@@ -1,0 +1,345 @@
+{
+  "pc": "com.modtruk.wahyuabadites18agustus",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "Wahyu Abadi M18",
+      "link_file": "https://archive.org/download/wahyu-abadi-m-18_20210817_1016/wahyu%20abadi%20m18.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_livery": "https://ia801505.us.archive.org/11/items/new-wahyu-abadi-m-18-by-afra-apps/NEW%20WAHYU%20ABADI%20M18%20by%20afra%20apps.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia801406.us.archive.org/20/items/wa-m-18_20210817/wa%20m18.png"
+    },
+	
+    {
+      "id": "2",
+      "tittle": "Wahyu Abadi Interior Racing",
+      "link_file": "https://archive.org/download/interior-racing-afra-app_202108/interior%20racing%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_livery": "https://ia601506.us.archive.org/9/items/livery-whyu-abadi-interior-racing-afra-app_202108/LIVERY%20WHYU%20ABADI%20interior%20racing%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601408.us.archive.org/1/items/interior-racing-2/interior%20racing%202.png"
+    },
+
+    {
+      "id": "3",
+      "tittle": "Wahyu Abadi BK1BK4",
+      "link_busidkotak": "https://archive.org/download/b-1-bk-4-terpal-kotak_202108/B1Bk4%20Terpal%20Kotak.bussidmod",
+      "link_busidgayor": "https://archive.org/download/canter-gayor-edit-bemper-blakang_202108/canter%20gayor%20edit%20bemper%20blakang.bussidmod",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "https://archive.org/download/b-1-bk-4-terpal-cincing_202108/B1Bk4%20Terpal%20Cincing.bussidmod",
+
+
+      "link_livery": "https://ia601400.us.archive.org/23/items/wahyu-abadi-by-afra-app_20210817_1120/Wahyu%20Abadi%20By%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601409.us.archive.org/19/items/bk-1bk-4-2/bk1bk4%202.png"
+    },
+
+    {
+      "id": "4",
+      "tittle": "Wahyu Abadi Pengamen Mbois",
+      "link_file": "https://archive.org/download/pengamen-mbois-afra-app_202108/pengamen%20mbois%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": "https://ia601402.us.archive.org/24/items/kotak_20210817/KOTAK.png",
+      "link_liverygayor": "https://ia601402.us.archive.org/3/items/gayor_20210817/GAYOR.png",
+      "link_liverysegitiga": "https://ia601504.us.archive.org/22/items/segi-3_202108/SEGI3.png",
+      "link_liverynoterpal": "https://ia801505.us.archive.org/22/items/no-terpal_202108/NO%20TERPAL.png",
+      "link_liverycincing": "",
+      "images": "https://ia801506.us.archive.org/8/items/pengamen-mbiois-2/pengamen%20mbiois%202.png"
+    },
+
+    {
+      "id": "5",
+      "tittle": "Wahyu Abadi Muat Beras",
+      "link_file": "https://archive.org/download/wahyu-muat-beras-by-afra-app_202108/wahyu%20muat%20beras%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601408.us.archive.org/22/items/wahyu-abadi-by-afra-app_20210817_1151/Wahyu%20Abadi%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia801409.us.archive.org/32/items/muat-beras-2/muat%20beras%202.png"
+    },
+
+    {
+      "id": "6",
+      "tittle": "Wahyu Abadi Ceper Racing",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-velg-ceper-racing_20210817/new%20wahyu%20abadi%20velg%20%20ceper%20racing.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601403.us.archive.org/18/items/ceper-racing-by-afra-app_202108/ceper%20racing%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia801403.us.archive.org/14/items/ceper-racing/ceper%20racing.png"
+    },
+
+    {
+      "id": "7",
+      "tittle": "Wahyu Abadi Full Stiker",
+      "link_file": "https://archive.org/download/wa-full-stiker-by-afra-app_20210817/wa%20full%20stiker%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601506.us.archive.org/32/items/wa-full-stiker-by-afra-app_20210817_1242/wa%20full%20stiker%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601406.us.archive.org/26/items/full-siker/full%20siker.png"
+    },
+
+    {
+      "id": "8",
+      "tittle": "Wahyu Abadi v2",
+      "link_file": "https://archive.org/download/wahyu-abadi-v-2-by-afra-app_202108/Wahyu%20Abadi%20v2%20by%20afra%20app.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601502.us.archive.org/19/items/livery-wahyu-abadi-v-2-by-afra-app_202108/Livery%20Wahyu%20Abadi%20v2%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601401.us.archive.org/11/items/wa-v-22/wa%20v22.png"
+    },
+
+    {
+      "id": "9",
+      "tittle": "Wahyu Abadi Tanpa Bak",
+      "link_file": "https://archive.org/download/wahyu-abadi-tanpa-bak_202108/Wahyu%20Abadi%20Tanpa%20Bak.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601402.us.archive.org/26/items/livery-tanpa-bak-by-afra-app_202108/livery%20tanpa%20bak%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601405.us.archive.org/4/items/tanpa-bak-2/tanpa%20bak%202.png"
+    },
+
+    {
+      "id": "10",
+      "tittle": "Wahyu Abadi V4",
+      "link_file": "https://archive.org/download/new-wahyu-abadi-v-4_202108/new%20wahyu%20abadi%20v4.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601507.us.archive.org/10/items/wa-v-4_202108/wa%20v4.png"
+    },
+
+    {
+      "id": "11",
+      "tittle": "Wahyu Abadi V5",
+      "link_file": "",
+      "link_busidgayor": "https://archive.org/download/new-wahyu-abadi-gayor_202108/New%20Wahyu%20Abadi%20Gayor.bussidmod",
+      "link_busidsegitiga": "https://archive.org/download/new-wahyu-abadi-segitiga_202108/New%20Wahyu%20Abadi%20Segitiga.bussidmod",
+      "link_busidnoterpal": "https://archive.org/download/new-wahyu-abadi-no-terpal_202108/New%20Wahyu%20Abadi%20no%20terpal.bussidmod",
+      "link_busidkotak": "https://archive.org/download/new-wahyu-abadi-kotak_202108/New%20Wahyu%20Abadi%20Kotak.bussidmod",
+
+
+      "link_liverykotak": "https://ia601509.us.archive.org/27/items/livery-new-wahyu-abadi-v-5-by-afra-app_202108/Livery%20New%20Wahyu%20Abadi%20v5%20by%20afra%20app.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601501.us.archive.org/8/items/wa-v-55/wa%20v55.png"
+    },
+
+    {
+      "id": "12",
+      "tittle": "Wahyu Abadi Air Mancur",
+      "link_file": "https://archive.org/download/wahyu-abadi-air-mancur_202108/Wahyu%20Abadi%20air%20mancur.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liveryXplaykembar": "https://ia601506.us.archive.org/22/items/livery-x-play-kembar_202108/Livery%20X%20Play%20Kembar.png",
+      "link_liverygayor": "",
+      "link_liveryterpalsegitiga": "https://ia601505.us.archive.org/11/items/terpal-segitiga_202108/Terpal%20Segitiga.Png",
+      "link_liverynoterpal": "https://ia601404.us.archive.org/25/items/wahyu-abadi-no-tpl_202108/WAHYU%20ABADI%20NO%20TPL.png",
+      "link_liverycincing": "",
+      "images": "https://ia601502.us.archive.org/32/items/wa-air-mancur-2/wa%20air%20mancur2.png"
+    },
+
+    {
+      "id": "13",
+      "tittle": "Wahyu Abadi v6",
+      "link_file": "https://archive.org/download/wahyu-abadi/wahyu%20abadi.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liveryxplaykembar": "https://ia601503.us.archive.org/20/items/livery-by-x-play-kembar/LIVERY%20BY%20X%20PLAY%20KEMBAR.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601402.us.archive.org/6/items/wa-v-66/wa%20v66.png"
+    },
+
+    {
+      "id": "14",
+      "tittle": "Black Team",
+      "link_file": "https://archive.org/download/graceful-tpl-kotak-rmc-creation/GRACEFUL%20TPL%20KOTAK%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liveryBlackteam01": "https://ia601501.us.archive.org/3/items/black-team-01-by-xpk/BLACK%20TEAM%2001%20BY%20XPK.png",
+      "link_liveryBlackteam04": "https://ia601401.us.archive.org/1/items/black-team-04-by-xpk/BLACK%20TEAM%2004%20BY%20XPK.png",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601507.us.archive.org/19/items/black-team-2/black%20team2.png"
+    },
+
+    {
+      "id": "15",
+      "tittle": "New Tawakal 3",
+      "link_file": "https://archive.org/download/tawakal-3-xpk/TAWAKAL%203%20XPK.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liveryxplaykembar": "https://ia601504.us.archive.org/10/items/tawakal-3-by-xkembar/Tawakal3ByXKembar.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601409.us.archive.org/2/items/new-tawakal-33/new%20tawakal%2033.png"
+    },
+
+    {
+      "id": "16",
+      "tittle": "nmr71 bore up",
+      "link_file": "https://archive.org/download/bor-up/BOR%20UP.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "",
+
+
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601407.us.archive.org/20/items/nmr-71-bore-up-22/nmr71%20bore%20up22.png"
+    },
+
+    {
+      "id": "17",
+      "tittle": "Sang Perintis",
+      "link_file": "",
+      "link_busidgayor": "https://archive.org/download/sang-perintis-gayor/SANG%20PERINTIS%20GAYOR.bussidmod",
+      "link_busidterpalsegitiga": "https://archive.org/download/sang-perintis-terpal-segi-3/SANG%20PERINTIS%20TERPAL%20SEGI%203.bussidmod",
+      "link_busidterpalkotak": "https://archive.org/download/sang-perintis-terpal-kotak/SANG%20PERINTIS%20TERPAL%20KOTAK.bussidmod",
+      "link_busidcincing": "",
+
+
+      "link_livery": "https://ia601502.us.archive.org/0/items/sang-perintis-by-rizqy-design/sang%20perintis%20by%20Rizqy%20Design.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",
+      "images": "https://ia601502.us.archive.org/18/items/sang-perintis-22/sang%20perintis%2022.png"
+    },
+
+    {
+      "id": "18",
+      "tittle": "Trending Topik",
+      "link_busidTrendingTopikV1": "https://archive.org/download/trending-topikv-1/Trending%20Topikv1.bussidmod",
+      "link_busidTrendingTopikV2": "https://archive.org/download/trending-topikv-2/Trending%20Topikv2.bussidmod",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_livery": "https://ia601406.us.archive.org/26/items/trending-topic-by-lf-design/Trending%20Topic%20By%20LfDesign.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601407.us.archive.org/8/items/trending-topik-22/trending%20topik22.png"
+    }
+  ]
